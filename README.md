@@ -9,7 +9,7 @@ To show how sales, profit and orders vary across brands, product colours, income
 
 This report presents an analysis of sales performance across brands, regions, customer demographics and product categories for Q1 2023 (January to March). A total of 250 customers generated 15,657 orders, producing a total revenue of £3,106,350, with a total cost of £2,174,445 and a total profit of £931,905.
 
-![Retail Sales Dashboard](PBI Dashboard.png)
+![Retail Sales Dashboard](PBI-Dashboard.png)
 
 
 **Tools used:** Power BI Desktop, Power query, DAX measures, slicers and interactive visuals
