@@ -11,6 +11,10 @@ This report presents an analysis of sales performance across brands, regions, cu
 
 **Tools used:** Power BI Desktop, Power query, DAX measures, slicers and interactive visuals
 
+**Files:**
+- [Download the Power BI file ](Retail-Sales-Analysis PowerBI Project.pbix)
+- [View the dashboard as a PDF](Retail-Sales-Dashboard.pdf)
+
 ## Key Metrics
 
 | KPI | Value |
