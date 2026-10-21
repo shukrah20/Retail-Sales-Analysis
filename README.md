@@ -13,7 +13,7 @@ This report presents an analysis of sales performance across brands, regions, cu
 
 **Files:**
 - [Download the Power BI file.pbix ](Retail-Sales-Analysis-PowerBI.pbix)
-- [View the dashboard as a PDF](Retail-Sales-Dashboard.pdf)
+- [View the dashboard as a PDF](Retail-Sales-PowerBI.pdf)
 
 ## Key Metrics
 
