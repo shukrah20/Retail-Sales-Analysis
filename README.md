@@ -18,6 +18,8 @@ This report presents an analysis of sales performance across brands, regions, cu
 - [Download the Power BI file.pbix ](Retail-Sales-Analysis-PowerBI.pbix)
 - [View the dashboard as a PDF](Retail-Sales-PowerBI.pdf)
 
+  > **Note:** The .pbix file needs Power BI Desktop to open. It is free to download from Microsoft and runs on Windows. If you don't have it, the PDF and screenshot above show the full dashboard.
+
 ## Key Metrics
 
 | KPI | Value |
